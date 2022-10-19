@@ -68,13 +68,11 @@ main {
 .card {
   max-width: 37rem;
   background-color: var(--clr-neutral-db);
-  border-radius: 1.5rem;
+  border-radius: 2.5rem;
   color: var(--clr-neutral-w);
   padding: 2rem;
   display: flex;
   flex-direction: column;
-  /* CHECK DIT OF T NODIG IS */
-  justify-content: space-around;
 }
 
 .card-icon {
